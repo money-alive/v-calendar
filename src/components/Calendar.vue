@@ -821,6 +821,7 @@ export default {
 }
 
 .vc-pane-layout {
+  display: -ms-grid;
   display: grid;
 }
 
