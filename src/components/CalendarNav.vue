@@ -323,6 +323,7 @@ export default {
 }
 
 .vc-nav-items {
+  display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-row-gap: 2px;

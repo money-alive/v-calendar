@@ -280,6 +280,7 @@ export default {
 }
 
 .vc-weeks {
+  display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   position: relative;
